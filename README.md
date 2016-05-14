@@ -1,2 +1,4 @@
 # hello-word
-for demo
+Hi All,
+
+Jubin here, i like core java and advanced technologies..
